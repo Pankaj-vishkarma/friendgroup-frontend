@@ -1,0 +1,14 @@
+.home-box{
+    min-height: 60vh;
+    padding:10px;
+    
+
+}
+.image-box-home ,.video-box-home{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+   
+    
+}

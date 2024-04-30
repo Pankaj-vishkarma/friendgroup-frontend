@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.addfile-box{
+    width: 100%;
+    height: 450px;
+    background-color:bisque;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.addimage,.addvideo{
+    width: 400px;
+    height: 300px;
+    background-color: aquamarine;
+    margin: 50px;
+    padding: 20px;
+    border-radius: 20px;
+    justify-content: center;
+    text-align: center;
+}
+.addimage h1,addinput,addbutton{
+    margin: 30px;
+}
+
+.addvideo h1,addinput,addbutton{
+    margin: 30px;
+}
+
+.addimage button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: blueviolet;
+}
+.addvideo button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: blueviolet;
+}
+.addimage input{
+    padding: 10px;
+    border-radius: 10px;
+    background-color:chocolate;
+}
+.addvideo input{
+    padding: 10px;
+    border-radius: 10px;
+    background-color:chocolate;
+}

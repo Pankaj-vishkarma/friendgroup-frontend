@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    padding-top: 5px;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+.label{
+   background-color: aqua;
+   text-align: center;
+}
+.label h1{
+    font-size: 100px;
+}
+
+.link-box{
+    height: 30px;
+    width: 100%;
+    padding-top: 0;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+   
+
+}
+.link{
+    margin-top: 5px;
+    text-decoration: none;
+    margin: 15vh;
+    color: yellow;
+}

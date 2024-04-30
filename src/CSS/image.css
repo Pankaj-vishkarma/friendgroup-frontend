@@ -1,0 +1,33 @@
+.image-box{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.imagecard{
+    height: 410px;
+    width: 310px;
+    margin: 5px;
+    padding: 5px;
+    background-color:white;
+    border-radius: 5px;
+    flex-basis: 25%;
+    
+}
+
+.video-box{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.videocard{
+    height: 410px;
+    width: 310px;
+    margin: 5px;
+    padding: 5px;
+    background-color:white;
+    border-radius: 5px;
+    flex-basis: 25%;
+}
